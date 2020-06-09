@@ -36,7 +36,7 @@ module.exports = class extends Generator {
       '.env.development',
       '.env.production',
       '.eslintrc.js',
-      '.gitignore',
+    //   '.gitignore',
       'babel.config.js',
       'package.json',
       'postcss.config.js',

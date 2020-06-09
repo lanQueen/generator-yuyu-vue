@@ -6,8 +6,7 @@
   "description": "Awesome node module",
   "keywords": [
     "generator-yuyu-vue",
-    "cli",
-    "zce"
+    "cli"
   ],
   "homepage": "https://github.com/lanQueen/generator-yuyu-vue#readme",
   "bugs": {
