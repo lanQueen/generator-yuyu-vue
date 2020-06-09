@@ -1,9 +1,9 @@
 {
   "name": "generator-yuyu-vue",
-  "version": "4.4.0",
+  "version": "4.5.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "yeoman",
+  "description": "Awesome node module",
   "keywords": [
     "generator-yuyu-vue",
     "cli",
@@ -14,13 +14,6 @@
     "url": "https://github.com/lanQueen/generator-yuyu-vue/issues"
   },
   "author": "lanQueen <752177836@qq.com>",
-  "files": [
-    "bin",
-    "lib"
-  ],
-  "directories": {
-    "lib": "lib"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lanQueen/generator-yuyu-vue.git"
