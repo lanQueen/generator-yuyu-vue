@@ -1,8 +1,30 @@
 {
   "name": "generator-yuyu-vue",
-  "version": "3.0.0",
+  "version": "4.4.0",
   "main": "index.js",
   "license": "MIT",
+  "description": "yeoman",
+  "keywords": [
+    "generator-yuyu-vue",
+    "cli",
+    "zce"
+  ],
+  "homepage": "https://github.com/lanQueen/generator-yuyu-vue#readme",
+  "bugs": {
+    "url": "https://github.com/lanQueen/generator-yuyu-vue/issues"
+  },
+  "author": "lanQueen <752177836@qq.com>",
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanQueen/generator-yuyu-vue.git"
+  },
   "dependencies": {
     "yeoman-generator": "^4.10.1"
   }
